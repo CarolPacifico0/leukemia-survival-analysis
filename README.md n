@@ -1,0 +1,17 @@
+Leukemia Survival Analysis (Kaplan-Meier Curve)
+
+This project uses a publicly available leukemia dataset to demonstrate how to perform survival analysis using Python.
+
+ **Methods:**
+- Kaplan-Meier estimator
+- Log-rank test
+- Chi-square interpretation
+- Visualizations with Matplotlib
+
+ **Key learning points:**
+- Statistical ≠ Clinical significance
+- Importance of context in interpreting survival data
+- Impact of censored observations and hazard ratios
+
+ This project is educational and exploratory only. 
+The dataset source and clinical details are unknown, so interpretations are limited.
